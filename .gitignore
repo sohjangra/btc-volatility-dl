@@ -1,0 +1,35 @@
+# Large data files — keep on Kaggle, not GitHub
+*.parquet
+*.npz
+*.pt
+*.pth
+*.h5
+*.hdf5
+*.csv
+*.zip
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
