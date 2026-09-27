@@ -1,5 +1,4 @@
-# Forecasting BTC Volatility and Using It in a Trading Strategy
-
+# Intraday Volatility Forecasting & Adaptive Trend Strategy (BTC/USDT)
 This repository contains the notebooks and supporting material for a project completed during the IITG.ai Summer Research Programme 2026.
 
 The project focuses on two questions:
