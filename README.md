@@ -2,7 +2,10 @@
 
 This repository contains the notebooks and supporting material for a project completed during the IITG.ai Summer Research Programme 2026.
 
-The project started with a straightforward question: can a deep-learning model forecast Bitcoin's volatility over the next 30 minutes more accurately than the established HAR-RV model? The second question was more practical: can those forecasts improve risk management in a trading strategy?
+The project started with a straightforward question: 
+Can a deep-learning model forecast Bitcoin's volatility over the next 30 minutes more accurately than the established HAR-RV model? 
+The second question was more practical: 
+Can those forecasts improve risk management in a trading strategy?
 
 The forecasting results were strong. The trading results are promising, but they are based on a short test period and should be treated as an initial study rather than a finished trading system.
 
