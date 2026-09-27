@@ -212,6 +212,3 @@ The analysis uses Python 3.10 with PyTorch, NumPy, Pandas, scikit-learn, CCXT, a
 6. Moreira and Muir (2017), *Volatility-Managed Portfolios*.
 7. Duc Bui (2026), *AdaptiveTrend*, arXiv:2602.11708.
 
-## Project Context
-
-IITG.ai Summer Research Programme 2026.
